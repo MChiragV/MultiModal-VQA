@@ -1,6 +1,6 @@
 # Visual Recognition Mini Project-2: Visual Question Answering(VQA)
 ## Data-Curation
-This directory contains
+This directory contains:
 - Data Preparation.ipynb: Dataset generation using Google Developers API
 - utils.py: Some helper functions for filtering the metadata
 - data_prep.py: Dataset generation using Vertex API (single thread)
