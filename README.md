@@ -23,6 +23,12 @@ Please download the files from this directory to test our best fine-tuned model.
 - inference.py: This file is used to run our best fine-tuned model on given data.
 - requirements.txt: This file contains the requirements to run the inference.py file.
 
+## Outside files
+Other than the above directories, there are 3 files(except README.md):
+
+- dataset-6k.csv: This file contains the dataset of 6k images and their corresponding questions and answers which is used to fine-tune the models.
+- dataset-20k.csv: This file contains the dataset of 20k images and their corresponding questions and answers which is used to fine-tune the models.
+- VR_MiniProject_2_Report.pdf: This file contains the report of the project 
 
 ## Contributions
 - Sai Venkata Sohith Gutta (IMT202242): Responsible for the directories "Fine-tuning scripts" and "inference_setup".
