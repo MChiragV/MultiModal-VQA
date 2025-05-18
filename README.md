@@ -34,3 +34,4 @@ Please download the files from this directory to test our best fine-tuned model.
 ## Contributions
 - Sai Venkata Sohith Gutta (IMT202242): Responsible for the directories "Fine-tuning scripts" and "inference_setup".
 - Margasahayam Venkatesh Chirag(IMT2022583): Responsible for the directory "Baseline Evaluation".
+- Siddharth Reddy Maramreddy (IMT2022031): Responsible for the directory "Data-Curation".
