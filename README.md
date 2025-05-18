@@ -1,5 +1,12 @@
 # Visual Recognition Mini Project-2: Visual Question Answering(VQA)
-## Dataset
+## Dataset Curation
+This directory contains
+- Data Preparation.ipynb: Dataset generation using Google Developers API
+- utils.py: Some helper functions for filtering the metadata
+- data_prep.py: Dataset generation using Vertex API (single thread)
+- data_prep_multithreaded.py: Dataset generation using Vertex API (multi-threaded)
+- data_prep_requirements.txt: Required packages to run all the file
+- data_prep_ollama.py: Dataset generation using Ollama
 
 ## Baseline Evaluation
 This directory contains 4 notebooks:
