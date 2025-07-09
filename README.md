@@ -1,4 +1,35 @@
 # Visual Recognition Mini Project-2: Visual Question Answering(VQA)
+## Directory Structure
+```
+Baseline Evaluation/
+    ├── BLIP.ipynb
+    ├── LLaVA.ipynb
+    ├── Qwen.ipynb
+    └── vilbert.ipynb
+Data-Curation/
+    ├── Data Preparation.ipynb
+    ├── data_prep_multithreaded.py
+    ├── data_prep_ollama.py
+    ├── data_prep_requirements.txt
+    ├── data_prep.py
+    ├── dataset-20k.csv
+    ├── dataset-6k.csv
+    └── utils.py
+Fine-tuning scripts/
+    ├── blip.ipynb
+    ├── blip2.ipynb
+    ├── llava.ipynb
+    ├── microsoft-git.ipynb
+    ├── phi3.ipynb
+    └── qwen.ipynb
+inference_setup/
+    ├── inference.py
+    └── requirements.txt
+dataset-20k.csv
+dataset-6k.csv
+README.md
+VR_Mini_Project_2_Report.pdf
+```
 ## Data-Curation
 This directory contains:
 - Data Preparation.ipynb: Dataset generation using Google Developers API
