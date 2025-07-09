@@ -1,4 +1,4 @@
-# Visual Recognition Mini Project-2: Visual Question Answering(VQA)
+# Visual Recognition Mini Project: Visual Question Answering(VQA)
 ## Directory Structure
 ```
 Baseline Evaluation/
