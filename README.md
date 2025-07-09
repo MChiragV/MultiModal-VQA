@@ -36,8 +36,3 @@ Other than the above directories, there are 3 files(except README.md):
 - dataset-6k.csv: This file contains the dataset of 6k images and their corresponding questions and answers which is used to fine-tune the models.
 - dataset-20k.csv: This file contains the dataset of 20k images and their corresponding questions and answers which is used to fine-tune the models.
 - VR_MiniProject_2_Report.pdf: This file contains the report of the project 
-
-## Contributions
-- Sai Venkata Sohith Gutta (IMT202242): Responsible for the directories "Fine-tuning scripts" and "inference_setup".
-- Margasahayam Venkatesh Chirag(IMT2022583): Responsible for the directory "Baseline Evaluation".
-- Siddharth Reddy Maramreddy (IMT2022031): Responsible for the directory "Data-Curation".
